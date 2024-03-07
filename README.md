@@ -1,8 +1,8 @@
 ### EX3 Implementation of GSP Algorithm In Python
 ### DATE: 07.03.24
 ```
-Name:M.Hariharan
-Reg.No:212221230034
+Name:S.Magaavelan
+Reg.No:212221040093
 ```
 ### AIM: To implement GSP Algorithm In Python.
 ### Description:
